@@ -1,8 +1,8 @@
 <?php
-   define('DB_SERVER', 'sql300.epizy.com');
-   define('DB_USERNAME', 'epiz_27671186');
-   define('DB_PASSWORD', 'Adeelkawaii29');
-   define('DB_NAME', 'epiz_27671186_sdi');
+     define('DB_SERVER', 'sql106.mipropia.com');
+   define('DB_USERNAME', 'mipc_27672310');
+   define('DB_PASSWORD', 'tesdicoba123');
+   define('DB_NAME', 'mipc_27672310_coba');
 
    /* Attempt to connect to MySQL database */
     $link = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
