@@ -1,5 +1,5 @@
 <?php
-     define('DB_SERVER', 'sql106.mipropia.com');
+   define('DB_SERVER', 'sql106.mipropia.com');
    define('DB_USERNAME', 'mipc_27672310');
    define('DB_PASSWORD', 'tesdicoba123');
    define('DB_NAME', 'mipc_27672310_coba');
