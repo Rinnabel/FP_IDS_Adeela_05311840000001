@@ -1,4 +1,9 @@
-# FP_IDS_Adeela_05311840000001
+# FINAL PROJECT IDS
+## BRUTE-FORCE DETECTION
+
+Nama : Adeela Nurul F.
+
+NRP  : 05311840000001
 
 ## Pendahuluan
 
