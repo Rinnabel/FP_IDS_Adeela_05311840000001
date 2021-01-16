@@ -39,3 +39,7 @@ Kemudian menyiapkan page lainnya, seperti page [login](scriptphp_web/login.php) 
 
 ![login](image/img-4.png)
 ![welcome](image/img-5.png)
+
+3. Brute-Force Detector
+
+
