@@ -23,4 +23,19 @@ Scritp ini menggunakan Pyton. Cara kerjanya secara sederhana adalah dengan memba
 
 Namun script ini tidak bisa mengakses access log secara _real-time_ sehingga tidak bisa memberikan peringatan yang _real-time_ juga. Oleh karena itu saya mencari cara agar script ini bisa digunakan secara _real-time_. Kemudian muncul masalah baru, yaitu mengenai access log. Saya kesulitan menemukan hosting web gratis yang menyediakan access log. Akhirnya saya meninggalkan cara ini dan mencari cara yang lain.
 
-2. 
+2. Membuat Web Login
+
+Hosting web dilakukan di [mipropia](https://mipropia.com/). Dengan alamat web login yang telah saya buat adalah [adeelaaa](http://adeelaaa.mipropia.com/register.php?)
+
+Pertama-tama kita perlu menyiapkan database untuk menyimpan username dan password
+
+![database](image/img-2.png)
+
+Selanjutnya adalah menyiapkan page untuk melakukan register atau sign-up. Dengan source code : [code](scriptphp_web/register.php)
+
+![register](image/img-3.png)
+
+Kemudian menyiapkan page lainnya, seperti page [login](scriptphp_web/login.php) dan [welcome](scriptphp_web/welcome.php)
+
+![login](image/img-4.png)
+![welcome](image/img-5.png)
