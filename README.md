@@ -44,7 +44,7 @@ Kemudian menyiapkan page lainnya, seperti page [login](scriptphp_web/login.php) 
 
 Pertama, akan dibuat tabel yang bertjuan untuk menyimpan __fail_count__ atau berapa kali user gagal login/mengakses sesuatu dan __last_update__ atau waktu terakhir data diupdate
 
-![tabel](image/img-6.png)
+![tabel](image/img--6.png)
 
 Membuat 3 konstanta
 
