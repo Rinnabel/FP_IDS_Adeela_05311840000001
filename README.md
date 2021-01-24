@@ -42,4 +42,12 @@ Kemudian menyiapkan page lainnya, seperti page [login](scriptphp_web/login.php) 
 
 3. Brute-Force Detector
 
+Pertama, akan dibuat tabel yang bertjuan untuk menyimpan __fail_count__ atau berapa kali user gagal login/mengakses sesuatu dan __last_update__ atau waktu terakhir data diupdate
+
+![tabel](image/img-6.png)
+
+Membuat 3 konstanta
+
+![const](image/img-7.png)
+
 
